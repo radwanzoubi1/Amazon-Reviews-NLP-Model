@@ -124,7 +124,7 @@ The dataset includes three primary columns:
 
 ### 1. Clone the Repository:
 ```bash
-git clone https://github.com/username/AmazonReviewsNLPModel.git
+git clone https://github.com/radwanzoubi1/Amazon-Reviews-NLP-Model.git
 cd AmazonReviewsNLPModel
 ```
 
